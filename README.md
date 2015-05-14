@@ -1,4 +1,4 @@
-puts "ek kwab deka tha manjil ko pane ki ".include?('ek')
-puts "lekin kise pata tha kismat andi hoti kar ke ".include?(andi)
-
+puts"na shahar deko na bagibhan deko "
+puts "kuda ka ek louta nishan deko"
+puts"ank utao aur saif deko"
 
