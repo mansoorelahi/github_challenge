@@ -1,4 +1,2 @@
-puts"na shahar deko na bagibhan deko "
-puts "kuda ka ek louta nishan deko"
-puts"ank utao aur saif deko"
-
+puts "dushmano se pyaar karna sik liya hum ne "
+puts "jaise jaise apno ko aajmate chale gaye"
